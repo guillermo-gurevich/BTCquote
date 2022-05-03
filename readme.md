@@ -1,0 +1,1 @@
+Toma la cotización del Bitcoin y la actualiza cada 3 segundos.

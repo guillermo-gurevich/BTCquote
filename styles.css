@@ -1,0 +1,14 @@
+*{
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: #c0cf32;
+}
+
+body {
+    background-color: #0a6634a2;
+}
+
+main {
+    max-width: 250px;
+    margin: 100px auto;
+}
